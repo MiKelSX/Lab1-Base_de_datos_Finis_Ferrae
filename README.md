@@ -15,7 +15,8 @@ Este repositorio contiene el desarrollo de un sistema de gestión de base de dat
 1. **Introducción:** Descripción del problema y objetivos del sistema.
 2. **Esquema Conceptual Entidad-Relación:** Diagrama que visualiza la estructura general del sistema.
 3. **Modelo Relacional:** Transformación del esquema conceptual en tablas normalizadas.
-   3.1 **Formas Normales:** Reglas de diseño de asegurar datos organizados y eficientes.
+   
+   3.1. **Formas Normales:** Reglas de diseño de asegurar datos organizados y eficientes.
 5. **Implementación en Access:** Creación de tablas, relaciones, formularios y consultas.
 6. **Conclusión:** Evaluación de resultados y mejoras futuras.
 
